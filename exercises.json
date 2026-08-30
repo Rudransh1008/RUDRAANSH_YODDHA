@@ -1,0 +1,218 @@
+{
+  "warm-ups": {
+    "description": "Neck { Stretches Rotation }\nArms & Shoulder (Stretches}\nWrist Rotations \nHip Rotations\nLeg Stretches \nAnkle Rotations\nCalves Raises",
+    "tips": [],
+    "muscles": [
+      "full-body"
+    ],
+    "difficulty": "intermediate",
+    "name": "Warm-Ups",
+    "equipment": [
+      "bodyweight"
+    ]
+  },
+  "arm-wrestle-wo": {
+    "description": ". Forearm Mass :-\n  Behind Back Reverse Wrist Curls\n  Cupping \n  Supination \n  Pronation\n. Crushing Grip :- \n  Towel Squeeze \n  Gripper \n  Dead Hang\n. Finger Strength :-\n  Rubber-Band  Finger Open\n  Book pinch\n  Kneeling-Finger Pushups \n  Knuckle Pushups",
+    "tips": [],
+    "muscles": [
+      "forearms",
+      "biceps",
+      "triceps",
+      "shoulders"
+    ],
+    "difficulty": "intermediate",
+    "name": "Arm Wrestle W/O",
+    "equipment": [
+      "pull-up bar",
+      "Bag + Books",
+      "Rope"
+    ]
+  },
+  "shoulder-core-stability-strengthening": {
+    "description": "Mudgar / Gada Swings",
+    "tips": [],
+    "muscles": [
+      "shoulders",
+      "biceps",
+      "triceps",
+      "forearms",
+      "core"
+    ],
+    "difficulty": "intermediate",
+    "name": "Shoulder + Core Stability & Strengthening",
+    "equipment": [
+      "Mudgar / Gada"
+    ]
+  },
+  "m-m-coordination-drills": {
+    "description": "Bear Crawl\nArmy Crawl\nApe Walk\nDuck Walk\nFrog Jumps",
+    "tips": [],
+    "muscles": [
+      "full-body"
+    ],
+    "difficulty": "intermediate",
+    "name": "M-M Coordination Drills",
+    "equipment": [
+      "bodyweight"
+    ]
+  },
+  "core-mobility-workout": {
+    "description": "Crunches \nBicycle Crunches\nMountain Climbers\nBird-Dog\nDead Bug\nHollow-Body Hold\nRussian Twist",
+    "tips": [],
+    "muscles": [
+      "core",
+      "abs",
+      "obliques"
+    ],
+    "difficulty": "intermediate",
+    "name": "Core & Mobility Workout",
+    "equipment": [
+      "bodyweight"
+    ]
+  },
+  "stamina-endurance": {
+    "description": "Jogging\nSprinting",
+    "tips": [],
+    "muscles": [
+      "full-body"
+    ],
+    "difficulty": "intermediate",
+    "name": "Stamina & Endurance",
+    "equipment": [
+      "bodyweight"
+    ]
+  },
+  "posture-stretches": {
+    "description": "AP-PP Tilts / Holds\nHip Rotation\nHip-Flexor Stretch  \nGlute Bridges \nBhujangasana \nCat-Cow Stretch",
+    "tips": [],
+    "muscles": [
+      "full-body"
+    ],
+    "difficulty": "intermediate",
+    "name": "Posture Stretches",
+    "equipment": [
+      "bench",
+      "bodyweight"
+    ]
+  },
+  "isometrics": {
+    "description": "Horse Stance\nVeer Bhadrasana {1,2,3}\nMalasana + Thoracic Extension\nRKC Planks \nTadasana\nVrikshasana",
+    "tips": [],
+    "muscles": [
+      "core",
+      "glutes",
+      "obliques",
+      "abs",
+      "hamstrings",
+      "quads"
+    ],
+    "difficulty": "intermediate",
+    "name": "Isometrics",
+    "equipment": [
+      "bodyweight"
+    ]
+  },
+  "arms-forearms": {
+    "description": "Bicep Curls\nTricep Curls\nShoulder Press\nBehind the Back Reverse Wrist Curls\nPronation\nRolling of weigthed rod",
+    "tips": [],
+    "muscles": [
+      "shoulders",
+      "biceps",
+      "forearms",
+      "triceps"
+    ],
+    "difficulty": "intermediate",
+    "name": "Arms & Forearms",
+    "equipment": [
+      "bench",
+      "dumbbell"
+    ]
+  },
+  "pull-ups": {
+    "description": "Assisted Pull Ups \nAssisted Dips",
+    "tips": [],
+    "muscles": [
+      "biceps",
+      "triceps",
+      "forearms",
+      "core"
+    ],
+    "difficulty": "intermediate",
+    "name": "Pull Ups",
+    "equipment": [
+      "dip bars",
+      "pull-up bar"
+    ]
+  },
+  "legs": {
+    "description": "Leg press\nSeated Calves",
+    "tips": [],
+    "muscles": [
+      "calves",
+      "hamstrings",
+      "glutes"
+    ],
+    "difficulty": "intermediate",
+    "name": "Legs",
+    "equipment": [
+      "cable"
+    ]
+  },
+  "pull": {
+    "description": "Lat Pull Down\nSeated Row",
+    "tips": [],
+    "muscles": [
+      "back",
+      "traps",
+      "core",
+      "obliques",
+      "triceps"
+    ],
+    "difficulty": "intermediate",
+    "name": "Pull",
+    "equipment": [
+      "dumbbell",
+      "cable"
+    ]
+  },
+  "push": {
+    "description": "Incline Bench Press\nBench Press",
+    "tips": [],
+    "muscles": [
+      "biceps",
+      "chest"
+    ],
+    "difficulty": "intermediate",
+    "name": "Push",
+    "equipment": [
+      "dumbbell",
+      "bench"
+    ]
+  },
+  "baithakas": {
+    "description": "Sadharan \nHanuman \nKick Squats \nJump Squats",
+    "tips": [],
+    "muscles": [
+      "glutes",
+      "hamstrings",
+      "quads"
+    ],
+    "difficulty": "intermediate",
+    "name": "Baithakas",
+    "equipment": [
+      "bodyweight"
+    ]
+  },
+  "hindu-danadasana": {
+    "description": "Ram Murti\nHanuman \nPike Pushups",
+    "tips": [],
+    "muscles": [
+      "full-body"
+    ],
+    "difficulty": "intermediate",
+    "name": "Hindu Danadasana",
+    "equipment": [
+      "bodyweight"
+    ]
+  }
+}

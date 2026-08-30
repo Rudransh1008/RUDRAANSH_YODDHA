@@ -1,0 +1,75 @@
+{
+  "id": "arm-wrestling",
+  "title": "Arm Wrestling",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 3,
+      "items": [
+        {
+          "id": "arm-wrestling-1",
+          "exerciseId": "arm-wrestle-wo",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": {
+                "min": 5,
+                "max": 11
+              }
+            },
+            "rpe": 8,
+            "tempo": {
+              "down": 3,
+              "pause": 1,
+              "up": "X"
+            },
+            "toFailure": "last"
+          },
+          "restAfterSec": 60
+        },
+        {
+          "id": "arm-wrestling-2",
+          "exerciseId": "stamina-endurance",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": {
+                "min": 8,
+                "max": 11
+              }
+            },
+            "rpe": 8,
+            "tempo": {
+              "down": 3,
+              "pause": 1,
+              "up": "X"
+            },
+            "toFailure": "last"
+          },
+          "restAfterSec": 60
+        },
+        {
+          "id": "arm-wrestling-3",
+          "exerciseId": "m-m-coordination-drills",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": {
+                "min": 8,
+                "max": 11
+              }
+            },
+            "rpe": 8,
+            "tempo": {
+              "down": 3,
+              "pause": 1,
+              "up": "X"
+            },
+            "toFailure": "last"
+          },
+          "restAfterSec": 60
+        }
+      ]
+    }
+  ]
+}

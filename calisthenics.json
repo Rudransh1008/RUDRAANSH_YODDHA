@@ -1,0 +1,223 @@
+{
+  "id": "calisthenics",
+  "title": "Calisthenics",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 3,
+      "items": [
+        {
+          "id": "calisthenics-1",
+          "exerciseId": "warm-ups",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": {
+                "min": 5,
+                "max": 11
+              }
+            },
+            "rpe": 8,
+            "tempo": {
+              "down": 3,
+              "pause": 1,
+              "up": "X"
+            },
+            "toFailure": "last"
+          },
+          "restAfterSec": 60
+        },
+        {
+          "id": "calisthenics-2",
+          "exerciseId": "hindu-danadasana",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": {
+                "min": 5,
+                "max": 11
+              }
+            },
+            "rpe": 8,
+            "tempo": {
+              "down": 3,
+              "pause": 1,
+              "up": "X"
+            },
+            "toFailure": "last"
+          },
+          "restAfterSec": 60
+        },
+        {
+          "id": "calisthenics-3",
+          "exerciseId": "baithakas",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": {
+                "min": 5,
+                "max": 11
+              }
+            },
+            "rpe": 8,
+            "tempo": {
+              "down": 3,
+              "pause": 1,
+              "up": "X"
+            },
+            "toFailure": "last"
+          },
+          "restAfterSec": 60
+        },
+        {
+          "id": "calisthenics-4",
+          "exerciseId": "pull-ups",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": {
+                "min": 5,
+                "max": 11
+              }
+            },
+            "rpe": 8,
+            "tempo": {
+              "down": 3,
+              "pause": 1,
+              "up": "X"
+            },
+            "toFailure": "last"
+          },
+          "restAfterSec": 60
+        },
+        {
+          "id": "calisthenics-5",
+          "exerciseId": "core-mobility-workout",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": {
+                "min": 5,
+                "max": 11
+              }
+            },
+            "rpe": 8,
+            "tempo": {
+              "down": 3,
+              "pause": 1,
+              "up": "X"
+            },
+            "toFailure": "last"
+          },
+          "restAfterSec": 60
+        },
+        {
+          "id": "calisthenics-6",
+          "exerciseId": "shoulder-core-stability-strengthening",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": {
+                "min": 5,
+                "max": 11
+              }
+            },
+            "rpe": 8,
+            "tempo": {
+              "down": 3,
+              "pause": 1,
+              "up": "X"
+            },
+            "toFailure": "last"
+          },
+          "restAfterSec": 60
+        },
+        {
+          "id": "calisthenics-7",
+          "exerciseId": "isometrics",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": {
+                "min": 5,
+                "max": 11
+              }
+            },
+            "rpe": 8,
+            "tempo": {
+              "down": 3,
+              "pause": 1,
+              "up": "X"
+            },
+            "toFailure": "last"
+          },
+          "restAfterSec": 60
+        },
+        {
+          "id": "calisthenics-8",
+          "exerciseId": "m-m-coordination-drills",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": {
+                "min": 5,
+                "max": 11
+              }
+            },
+            "rpe": 8,
+            "tempo": {
+              "down": 3,
+              "pause": 1,
+              "up": "X"
+            },
+            "toFailure": "last"
+          },
+          "restAfterSec": 60
+        },
+        {
+          "id": "calisthenics-9",
+          "exerciseId": "stamina-endurance",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": {
+                "min": 3,
+                "max": 3
+              }
+            },
+            "rpe": 8,
+            "tempo": {
+              "down": 3,
+              "pause": 1,
+              "up": "X"
+            }
+          },
+          "restAfterSec": 180
+        },
+        {
+          "id": "calisthenics-10",
+          "exerciseId": "posture-stretches",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": {
+                "min": 5,
+                "max": 11
+              }
+            },
+            "rpe": 8,
+            "tempo": {
+              "down": 3,
+              "pause": 1,
+              "up": "X"
+            },
+            "toFailure": "last"
+          },
+          "restAfterSec": 60
+        }
+      ],
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 120
+    }
+  ]
+}

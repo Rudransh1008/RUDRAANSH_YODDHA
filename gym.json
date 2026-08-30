@@ -1,0 +1,140 @@
+{
+  "id": "gym",
+  "title": "GYM",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 3,
+      "items": [
+        {
+          "id": "gym-1",
+          "exerciseId": "push",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": {
+                "min": 5,
+                "max": 11
+              }
+            },
+            "rpe": 8,
+            "tempo": {
+              "down": 3,
+              "pause": 1,
+              "up": "X"
+            },
+            "toFailure": "last"
+          },
+          "restAfterSec": 60
+        },
+        {
+          "id": "gym-2",
+          "exerciseId": "pull",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": {
+                "min": 5,
+                "max": 11
+              }
+            },
+            "rpe": 8,
+            "tempo": {
+              "down": 3,
+              "pause": 1,
+              "up": "X"
+            },
+            "toFailure": "last"
+          },
+          "restAfterSec": 60
+        },
+        {
+          "id": "gym-3",
+          "exerciseId": "legs",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": {
+                "min": 5,
+                "max": 0
+              }
+            },
+            "rpe": 8,
+            "tempo": {
+              "down": 3,
+              "pause": 1,
+              "up": "X"
+            },
+            "toFailure": "last"
+          },
+          "restAfterSec": 60
+        },
+        {
+          "id": "gym-4",
+          "exerciseId": "arms-forearms",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": {
+                "min": 5,
+                "max": 11
+              }
+            },
+            "rpe": 8,
+            "tempo": {
+              "down": 3,
+              "pause": 1,
+              "up": "X"
+            },
+            "toFailure": "last"
+          },
+          "restAfterSec": 60
+        },
+        {
+          "id": "gym-5",
+          "exerciseId": "stamina-endurance",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": {
+                "min": 3,
+                "max": 3
+              }
+            },
+            "rpe": 8,
+            "tempo": {
+              "down": 3,
+              "pause": 1,
+              "up": "X"
+            },
+            "toFailure": "last"
+          },
+          "restAfterSec": 180
+        },
+        {
+          "id": "gym-6",
+          "exerciseId": "warm-ups",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": {
+                "min": 3,
+                "max": 5
+              }
+            },
+            "rpe": 8,
+            "tempo": {
+              "down": 3,
+              "pause": 1,
+              "up": "X"
+            },
+            "toFailure": "last"
+          },
+          "restAfterSec": 60
+        }
+      ],
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 60
+    }
+  ]
+}
